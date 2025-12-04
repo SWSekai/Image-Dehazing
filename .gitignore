@@ -2,3 +2,5 @@
 一個基於Retinex演算法與運用模糊理論.pdf
 tmp/
 1110927hw4.pdf
+.gitignore
+__pycache__/
