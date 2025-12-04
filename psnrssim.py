@@ -49,4 +49,4 @@ def compute_metrics(original_dir, processed_dir):
         print("No valid image pairs found.")
 
 if __name__ == "__main__":
-    compute_metrics('./gt/', './output_image/')
+    compute_metrics('./gt/', './input_image/')
